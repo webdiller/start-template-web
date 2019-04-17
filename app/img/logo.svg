@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 757 446.2" style="enable-background:new 0 0 757 446.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st4{stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st7{font-family:'OpenSans-BoldItalic';}
+	.st8{font-size:30.1257px;}
+</style>
+<g id="main">
+	<g id="small">
+		<rect x="2" y="148.7" width="753.1" height="235.4"/>
+		<rect x="397.4" y="88.5" width="235.8" height="45.2"/>
+		<circle class="st0" cx="268.2" cy="256.7" r="17.9"/>
+		<path d="M720.6,56.9h-33.9c-1.7,0-3,1.4-3,3v5.4c0,1.7,1.4,3,3,3h33.9c1.7,0,3-1.4,3-3V60C723.6,58.3,722.2,56.9,720.6,56.9z"/>
+		<circle class="st1" cx="315.6" cy="145.2" r="27.1"/>
+	</g>
+	<g id="elements">
+		<path class="st2" d="M743.1,445H14c-6.6,0-12-5.4-12-12V80.4c0-6.6,5.4-12,12-12h729.1c6.6,0,12,5.4,12,12V433
+			C755.1,439.6,749.7,445,743.1,445z"/>
+		<polygon points="633.2,68.4 397.4,68.4 475.4,0.9 555.2,0.9 		"/>
+		<circle class="st1" cx="515.3" cy="266.4" r="144"/>
+		<circle class="st3" cx="515.3" cy="266.4" r="119.6"/>
+		<path class="st4" d="M128.1,60.1c0,4.6-3.7,8.3-8.3,8.3H42.3c-2.3,0-4.4-0.9-5.9-2.4c-1.5-1.5-2.4-3.6-2.4-5.9
+			c0-4.6,3.7-8.3,8.3-8.3h77.5c2.3,0,4.4,0.9,5.9,2.4S128.1,57.8,128.1,60.1z"/>
+	</g>
+	<g id="tablet">
+		<line class="st5" x1="397.4" y1="111.1" x2="633.2" y2="111.1"/>
+		<circle class="st0" cx="463.8" cy="220.7" r="39.1"/>
+		<circle class="st0" cx="577" cy="330.2" r="17.9"/>
+		<circle cx="327.9" cy="60.1" r="8.3"/>
+		<line class="st6" x1="723.6" y1="148.7" x2="723.6" y2="384.1"/>
+		<line class="st6" x1="710.4" y1="148.7" x2="710.4" y2="384.1"/>
+		<line class="st6" x1="697.2" y1="148.7" x2="697.2" y2="384.1"/>
+		<line class="st6" x1="684.1" y1="148.7" x2="684.1" y2="384.1"/>
+		<text transform="matrix(1 0 0 1 27.0999 119.8581)" class="st7 st8">Zenit-E</text>
+	</g>
+</g>
+</svg>
